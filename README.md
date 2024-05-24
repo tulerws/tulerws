@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning C#, Python and Angular
 
 
-[![tulerws's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulerws)](https://github.com/tulerws/github-readme-stats)
+[![tulerws's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulers)](https://github.com/tulerws/github-readme-stats)
