@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tulerws
-- 🌱 I’m currently learning C#, Python and Angular
+- 👋 Hi, My name is João Pedro Tuler, I'm a .NET Web developer with Angular as my go-to Front-end client
+- 🌱 Trying to improve as much as I can in C# and starting to learn some NOSQL and Cloud services(Azure and AWS)
 
 
 ![tulerws's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=dracula)
@@ -23,6 +23,14 @@
   <img align="center" alt="RabbitMQ" height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073">
   <img align="center" alt="Postman" height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
   <img align="center" alt="Figma" height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">
+</div>
+
+### 💡 Learning: 
+<div style="display: inline_block">
+  <img align="center" alt="Microsoft Azure" height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
+  <img align="center" alt="Amazon Web Services" height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">  
+  <img align="center" alt="MongoDB" height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
+  <img align="center" alt="Docker" height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
 </div>
 
 <br/>
