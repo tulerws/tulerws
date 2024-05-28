@@ -1,4 +1,4 @@
-- 👋 Hi, My name is João Pedro Tuler, I'm a .NET Fullstack developer with Angular as my go-to Front-end client
+- 👋 Hi, My name is João Pedro Tuler, I'm a .NET Fullstack developer with Angular as my go-to Front-end framework
 - 🌱 Trying to improve as much as I can in C# and starting to learn some NOSQL and Cloud services(Azure and AWS)
 
 
