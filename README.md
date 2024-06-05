@@ -43,3 +43,5 @@
 <a href="https://www.linkedin.com/in/joaotulerr/" tarfet="_blank"><img
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 target="_blank"></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tulerws&label=Profile%20views&color=0e75b6&style=flat" /> </p>
