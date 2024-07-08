@@ -1,6 +1,8 @@
 - 👋 Hi, My name is João Pedro Tuler, I'm a .NET Fullstack developer with Angular as my go-to Front-end framework
 - 🌱 Trying to improve as much as I can in C#, starting to learn Cloud services(Azure and AWS) and Docker
 
+![](https://github-profile-trophy.vercel.app/?username=tulerws&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
 ![tulerws's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=dracula)
