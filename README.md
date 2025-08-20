@@ -12,7 +12,6 @@
   <img align="center" alt="Angular" height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png">
   <img align="center" alt="Vue" height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png">
   <img align="center" alt="Typescript" height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
-  <img align="center" alt="Blazor" height="50" src="https://seeklogo.com/images/B/blazor-logo-B6B0844B72-seeklogo.com.png">
   <img align="center" alt="Bootstrap" height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
   <img align="center" alt="Node.js" height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
   <img align="center" alt="MS SQLServer" height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
