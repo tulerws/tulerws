@@ -1,45 +1,104 @@
-- 👋 Hi, My name is João Pedro Tuler, I'm a .NET Fullstack developer aiming to be a DevOps engineer
-- 🌱 Trying to improve as much as I can in C#, starting to learn Cloud services(Azure and AWS) and Docker
+<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=tulerws&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+# Hi, I'm João Pedro 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=dracula)
+### Full Stack Developer | .NET • TypeScript • Cloud • DevOps
 
-### 🖥️ Technologies & Frameworks:
-<div style="display: inline_block">
-  <img align="center" alt="C#" height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
-  <img align="center" alt=".NET" height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">
-  <img align="center" alt="Angular" height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png">
-  <img align="center" alt="Vue" height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png">
-  <img align="center" alt="Typescript" height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
-  <img align="center" alt="Bootstrap" height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
-  <img align="center" alt="Node.js" height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
-  <img align="center" alt="MS SQLServer" height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
-  <img align="center" alt="MongoDB" height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
+I build scalable applications, robust APIs and modern web experiences.
+I'm especially interested in software architecture, cloud-native development,
+automation and AI-powered solutions.
+
 </div>
 
+## About me
 
-### 🛠️ Tools:
-<div style="display: inline_block">
-  <img align="center" alt="Visual Studio" height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg">
-  <img align="center" alt="VSCode" height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-  <img align="center" alt="RabbitMQ" height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073">
-  <img align="center" alt="Postman" height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
-  <img align="center" alt="Figma" height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">
-  <img align="center" alt="Bash" height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png">
-  <img align="center" alt="Git" height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-  <img align="center" alt="Docker" height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
+- 💻 Full Stack Developer experienced with **C#/.NET** and modern JavaScript frameworks
+- ☁️ Working with **Microsoft Azure**, **AWS**, containers and CI/CD workflows
+- 🤖 Interested in **LLMs, AI agents, plugins, MCPs and developer automation**
+- 🧠 Always improving my knowledge of software architecture, DevOps and cloud computing
+- 🤝 Comfortable working both independently and as part of a collaborative team
+
+## Tech stack
+
+### Back-end
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+### Front-end and mobile
+
+<p>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Cloud and DevOps
+
+<p>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+## GitHub statistics
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=default&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
 </div>
 
-### 💡 Learning: 
-<div style="display: inline_block">
-  <img align="center" alt="Microsoft Azure" height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
-  <img align="center" alt="Amazon Web Services" height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
+---
+
+<div align="center">
+  <sub>Building software with curiosity, consistency and attention to quality.</sub>
 </div>
-
-<br/>
-<a href="https://www.linkedin.com/in/joaotulerr/" tarfet="_blank"><img
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-target="_blank"></a>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tulerws&label=Profile%20views&color=0e75b6&style=flat" /> </p>
