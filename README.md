@@ -12,7 +12,7 @@ automation and AI-powered solutions.
 
 ## About me
 
-- 💻 Full Stack Developer experienced with **C#/.NET** and modern JavaScript frameworks
+- 💻 Full Stack Developer experienced with **C#/.NET**, **Java**, **Python** and modern JavaScript frameworks
 - ☁️ Working with **Microsoft Azure**, **AWS**, containers and CI/CD workflows
 - 🤖 Interested in **LLMs, AI agents, plugins, MCPs and developer automation**
 - 🧠 Always improving my knowledge of software architecture, DevOps and cloud computing
@@ -25,6 +25,8 @@ automation and AI-powered solutions.
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
@@ -75,25 +77,30 @@ automation and AI-powered solutions.
 <div align="center">
   <picture>
     <source
-      [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tulerws)](https://github.com/stats-organization/github-stats-extended)
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+      srcset="https://github-stats-extended.vercel.app/api?username=tulerws&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=default&hide_border=true&langs_count=8"
+      srcset="https://github-stats-extended.vercel.app/api?username=tulerws&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180" alt="João Pedro's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=tulerws&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
   </picture>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=default&hide_border=true&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
+</div>
+
+<div align="center">
+  <sub>Statistics provided by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
 </div>
 
 ---
