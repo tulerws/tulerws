@@ -75,8 +75,7 @@ automation and AI-powered solutions.
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
+      [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=tulerws)](https://github.com/stats-organization/github-stats-extended)
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=tulerws&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
