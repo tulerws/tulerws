@@ -2,11 +2,7 @@
 
 # Hi, I'm João Pedro 👋
 
-### Full Stack Developer | .NET • TypeScript • Cloud • DevOps
-
-I build scalable applications, robust APIs and modern web experiences.
-I'm especially interested in software architecture, cloud-native development,
-automation and AI-powered solutions.
+### Full Stack Developer | Webdev • LLMs • Cloud • DevOps
 
 </div>
 
