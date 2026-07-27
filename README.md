@@ -10,8 +10,8 @@
 
 - 💻 Full Stack Developer experienced with **C#/.NET**, **Java**, **Python** and modern JavaScript frameworks
 - ☁️ Working with **Microsoft Azure**, **AWS**, containers and CI/CD workflows
-- 🤖 Interested in **LLMs, AI agents, plugins, MCPs and developer automation**
 - 🧠 Always improving my knowledge of software architecture, DevOps and cloud computing
+- 🤖 Interested in **LLMs, plugins, MCPs and developer automation**
 - 🤝 Comfortable working both independently and as part of a collaborative team
 
 ## Tech stack
