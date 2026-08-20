@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="270" viewBox="0 0 620 270" role="img" aria-labelledby="title description">
+  <title id="title">Lume — AI agent monitoring hub</title>
+  <desc id="description">A custom project card linking to the Lume GitHub repository.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1022"/>
+      <stop offset="0.55" stop-color="#101831"/>
+      <stop offset="1" stop-color="#18113A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#57D8FF"/>
+      <stop offset="0.48" stop-color="#7C8CFF"/>
+      <stop offset="1" stop-color="#B779FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#6CE5FF" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#6CE5FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="618" height="268" rx="24" fill="url(#background)" stroke="#2B365F" stroke-width="2"/>
+  <circle cx="555" cy="38" r="128" fill="url(#glow)"/>
+  <circle cx="589" cy="258" r="116" fill="#9A6CFF" opacity="0.08"/>
+  <path d="M456 1h139a24 24 0 0 1 24 24v102c-42-11-81-35-116-71-18-18-33-37-47-55Z" fill="url(#accent)" opacity="0.08"/>
+
+  <g transform="translate(38 34)">
+    <rect width="106" height="106" rx="28" fill="#111A35" stroke="#344573"/>
+    <circle cx="53" cy="53" r="35" fill="#61DFFF" opacity="0.18" filter="url(#softGlow)"/>
+    <circle cx="53" cy="53" r="24" fill="url(#accent)"/>
+    <circle cx="46" cy="46" r="7" fill="#F3FBFF" opacity="0.9"/>
+    <path d="M22 53c8-16 18-24 31-24 14 0 24 8 32 24-8 16-18 24-32 24-13 0-23-8-31-24Z" fill="none" stroke="#C8F4FF" stroke-width="2.5" opacity="0.76"/>
+    <circle cx="21" cy="53" r="4" fill="#6CE5FF"/>
+    <circle cx="85" cy="53" r="4" fill="#AC7BFF"/>
+  </g>
+
+  <text x="166" y="48" fill="#88E5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">FEATURED PROJECT</text>
+  <text x="166" y="88" fill="#F8FAFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="760">Lume</text>
+  <text x="166" y="116" fill="#B9C4E4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Monitoring hub for AI agents</text>
+
+  <text x="38" y="174" fill="#D5DDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Track every agent session across CLI, VS Code and the browser</text>
+  <text x="38" y="196" fill="#D5DDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">from one focused, local-first desktop workspace.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.8">
+    <rect x="38" y="218" width="58" height="25" rx="12.5" fill="#58D8FF" opacity="0.14"/>
+    <text x="51" y="235" fill="#8AE8FF">RUST</text>
+    <rect x="104" y="218" width="66" height="25" rx="12.5" fill="#7C8CFF" opacity="0.16"/>
+    <text x="118" y="235" fill="#AAB3FF">TAURI</text>
+    <rect x="178" y="218" width="76" height="25" rx="12.5" fill="#B779FF" opacity="0.15"/>
+    <text x="190" y="235" fill="#D3A9FF">SVELTE</text>
+  </g>
+
+  <g transform="translate(443 219)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="0" y="17" fill="#F5F7FF" font-size="13" font-weight="700">View repository</text>
+    <path d="M117 7h12v12M129 7l-16 16" fill="none" stroke="#75DEFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

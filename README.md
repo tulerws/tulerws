@@ -63,6 +63,17 @@
   </p>
 </div>
 
+## Featured projects
+
+<div align="center">
+  <a href="https://github.com/tulerws/Lume">
+    <img width="49%" alt="Lume — monitoring hub for AI agents" src="assets/projects/lume-card.svg" />
+  </a>
+  <a href="https://playinvicto.pages.dev">
+    <img width="49%" alt="Invicto — historic football draft experience" src="assets/projects/invicto-card.svg" />
+  </a>
+</div>
+
 ## GitHub statistics
 
 <div align="center">
