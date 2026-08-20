@@ -67,10 +67,10 @@
 
 <div align="center">
   <a href="https://github.com/tulerws/Lume">
-    <img width="49%" alt="Lume — monitoring hub for AI agents" src="assets/projects/lume-card.svg" />
+    <img width="49%" alt="Lume — monitoring hub for AI agents" src="assets/projects/lume-card.svg?v=2" />
   </a>
   <a href="https://playinvicto.pages.dev">
-    <img width="49%" alt="Invicto — historic football draft experience" src="assets/projects/invicto-card.svg" />
+    <img width="49%" alt="Invicto — historic football draft experience" src="assets/projects/invicto-card.svg?v=2" />
   </a>
 </div>
 
