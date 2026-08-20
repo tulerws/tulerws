@@ -1,11 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" role="img" aria-labelledby="title description">
   <title id="title">Lume — monitoring hub for AI agents</title>
-  <desc id="description">A restrained project card using Lume's official icon and green visual identity.</desc>
+  <desc id="description">A restrained project card using Lume's official mascot and green visual identity.</desc>
 
   <rect x="1" y="1" width="618" height="238" rx="20" fill="#111713" stroke="#304139" stroke-width="2"/>
   <path d="M20 1h44v3H20a19 19 0 0 0-19 19v-3A19 19 0 0 1 20 1Z" fill="#63A57D"/>
 
-  <image x="32" y="28" width="72" height="72" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAElElEQVR42u3dMWoUbRzH8ed52AsIgS0kEAiSIkU6K4N9cgAbz5DtPIEXcDtPYZXUSqzsLFIsElgIFgsBjxALLyDMZmee/X0+fXxfx/l/53lmdyazAsSaOQQgAIAAAAIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAAAALQgfnJ0ZOjsP82q3V1FP6pBhxy41ANPeQGoRp6yI1BNfSQG4Nq8CE3BNXgQ24IqsGH3BA0ww+552h1UCF3NdAMP+Seu9XBg9zVQDP8kHtONwcKcs/t5gBB7jleHRTIvSdQDT/khmBm+CFXcwgg9yLYXP0hNwLN8ENuBJrhh9wINMMPuRHwWnAoPgVw9YfAVUAz/JAbAVsAsAVw9YfEVcDM8IMVABC4Cmiu/pAbATcBofj14LFX/4PjQ2dBsMf7h5L87gArAChuAtr7Q+C9ACsACCYAYAtg+Q+J2wArALAFAGwBLP8hahtgBQC2AIAAWP6DewBAxn0AWwCwBQAEABCAnoz9PP/51YWzaES3y5tRz5+e3idgBQAIAFC28zGg7wBA6fajQCsAsAUABAAQAEAAAAEABAAQAEAAAAEABAAQAKAvtfeHgYY+zz30ef6XL+bOogF+/9mUnt8nMNTQ9wlsVutqBQAIACAAgAAAAgAIACAAgACwK4uzd6P+9z98XfpHEABAAAABAAQABMAhAAEABAAQAEovz7Pvu9M3rwf9/OXH9+U53wcx9vsEBAAQAEAAAAEABAAQAEAAAAEABAAQABAAQAAAAQAEABAAQABgDHfffxS/F0AAAAEABAAQAEAAAAEABAAQAKbB5/ACAAgAIACAAAACAAgAIACAAMCufPt0PejnW60CAAgAIACAAAACAAgAIACAAMBEvF1cDvr52+WNAAACAAgAIACAAAACAAgAIABszZfFZwdhRAfHhwIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAA7KHe3ys/1K+fd4N+/tXZ6aj//4/3DwIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAAEGXs7/ILACAAgAAAAlA8j/+fzq8uit9P36/en+cXAEAAAAEABAAQAEAAAAEABAAQAEAAQAAAAQCytKF/wGa1rg4j7N42Zs8KAGwBgERbWb7PT46eej0Anqcv3gdgCwDYAgACAAgAsMf7/7KN7wH4LgBYAQACAJSkrwLbBkCf+38rALAFAGwBbAMgavlvBQC2AIAtgG0ARC3/rQCgeB/As+j5HQHF+wiK5/n3/+pvBQDuAfRVLLD3twIAwz/lFYBVAARvAUQApj87tgBgBWAVAGlX/50FQARgmrNiCwC2AFYBkHb133kARACmNRst5S8Khn8iARABmMYsuAkIocM/6grAKgDK/r4PoHh3AEz+4jepK7AQYPiDtgC2BBh+ARABDL8AiACGP/oegPsCGHwrAKsBDL8VgNUABl8ARACDLwBCgOEXACHA4AuAEGDwBUAMMPQCIAYYegEQBAy8AIgDhlwAgOKVYIAAAAIACAAgACAAgAAAAgAIACAAgAAAAgAIACAAgAAA3foLeOJMAfxluaUAAAAASUVORK5CYII="/>
+  <g transform="translate(32 28) scale(.28125)" shape-rendering="crispEdges">
+    <rect x="16" y="16" width="224" height="224" rx="56" fill="#172720"/>
+    <g fill="#2B4A3D">
+      <path d="M64 48h128v16H64zM48 64h32v16H48zM176 64h32v16h-32zM48 80h16v16H48zM192 80h32v16h-32zM48 96h16v80H48zM208 96h16v64h-16zM96 160h16v16H96zM48 176h32v16H48zM96 176h96v16H96zM64 192h128v16H64zM96 208h80v16H96z"/>
+    </g>
+    <g fill="#68B887">
+      <path d="M80 64h96v16H80zM64 80h16v16H64zM176 80h16v16h-16zM64 96h80v16H64zM176 96h32v16h-32zM64 112h144v32H64zM64 144h48v16H64zM64 160h32v16H64zM80 176h16v16H80z"/>
+    </g>
+    <rect x="80" y="80" width="64" height="16" fill="#83C99E"/>
+    <path d="M144 80h32v16h-32zM144 96h16v16h-16zM160 160h16v12h-16z" fill="#F2F8F5"/>
+    <rect x="160" y="96" width="16" height="16" fill="#1D342B"/>
+    <rect x="192" y="128" width="16" height="8" fill="#29493C"/>
+  </g>
 
   <text x="124" y="48" fill="#7F998B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">LOCAL-FIRST DESKTOP APP</text>
   <text x="124" y="82" fill="#F0F5F2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Lume</text>
