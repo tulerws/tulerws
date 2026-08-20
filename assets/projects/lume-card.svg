@@ -1,59 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="270" viewBox="0 0 620 270" role="img" aria-labelledby="title description">
-  <title id="title">Lume — AI agent monitoring hub</title>
-  <desc id="description">A custom project card linking to the Lume GitHub repository.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0A1022"/>
-      <stop offset="0.55" stop-color="#101831"/>
-      <stop offset="1" stop-color="#18113A"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#57D8FF"/>
-      <stop offset="0.48" stop-color="#7C8CFF"/>
-      <stop offset="1" stop-color="#B779FF"/>
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop stop-color="#6CE5FF" stop-opacity="0.42"/>
-      <stop offset="1" stop-color="#6CE5FF" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" role="img" aria-labelledby="title description">
+  <title id="title">Lume — monitoring hub for AI agents</title>
+  <desc id="description">A restrained project card using Lume's official icon and green visual identity.</desc>
 
-  <rect x="1" y="1" width="618" height="268" rx="24" fill="url(#background)" stroke="#2B365F" stroke-width="2"/>
-  <circle cx="555" cy="38" r="128" fill="url(#glow)"/>
-  <circle cx="589" cy="258" r="116" fill="#9A6CFF" opacity="0.08"/>
-  <path d="M456 1h139a24 24 0 0 1 24 24v102c-42-11-81-35-116-71-18-18-33-37-47-55Z" fill="url(#accent)" opacity="0.08"/>
+  <rect x="1" y="1" width="618" height="238" rx="20" fill="#111713" stroke="#304139" stroke-width="2"/>
+  <path d="M20 1h44v3H20a19 19 0 0 0-19 19v-3A19 19 0 0 1 20 1Z" fill="#63A57D"/>
 
-  <g transform="translate(38 34)">
-    <rect width="106" height="106" rx="28" fill="#111A35" stroke="#344573"/>
-    <circle cx="53" cy="53" r="35" fill="#61DFFF" opacity="0.18" filter="url(#softGlow)"/>
-    <circle cx="53" cy="53" r="24" fill="url(#accent)"/>
-    <circle cx="46" cy="46" r="7" fill="#F3FBFF" opacity="0.9"/>
-    <path d="M22 53c8-16 18-24 31-24 14 0 24 8 32 24-8 16-18 24-32 24-13 0-23-8-31-24Z" fill="none" stroke="#C8F4FF" stroke-width="2.5" opacity="0.76"/>
-    <circle cx="21" cy="53" r="4" fill="#6CE5FF"/>
-    <circle cx="85" cy="53" r="4" fill="#AC7BFF"/>
-  </g>
+  <image x="32" y="28" width="72" height="72" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAElElEQVR42u3dMWoUbRzH8ed52AsIgS0kEAiSIkU6K4N9cgAbz5DtPIEXcDtPYZXUSqzsLFIsElgIFgsBjxALLyDMZmee/X0+fXxfx/l/53lmdyazAsSaOQQgAIAAAAIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAAAALQgfnJ0ZOjsP82q3V1FP6pBhxy41ANPeQGoRp6yI1BNfSQG4Nq8CE3BNXgQ24IqsGH3BA0ww+552h1UCF3NdAMP+Seu9XBg9zVQDP8kHtONwcKcs/t5gBB7jleHRTIvSdQDT/khmBm+CFXcwgg9yLYXP0hNwLN8ENuBJrhh9wINMMPuRHwWnAoPgVw9YfAVUAz/JAbAVsAsAVw9YfEVcDM8IMVABC4Cmiu/pAbATcBofj14LFX/4PjQ2dBsMf7h5L87gArAChuAtr7Q+C9ACsACCYAYAtg+Q+J2wArALAFAGwBLP8hahtgBQC2AIAAWP6DewBAxn0AWwCwBQAEABCAnoz9PP/51YWzaES3y5tRz5+e3idgBQAIAFC28zGg7wBA6fajQCsAsAUABAAQAEAAAAEABAAQAEAAAAEABAAQAKAvtfeHgYY+zz30ef6XL+bOogF+/9mUnt8nMNTQ9wlsVutqBQAIACAAgAAAAgAIACAAgACwK4uzd6P+9z98XfpHEABAAAABAAQABMAhAAEABAAQAEovz7Pvu9M3rwf9/OXH9+U53wcx9vsEBAAQAEAAAAEABAAQAEAAAAEABAAQABAAQAAAAQAEABAAQABgDHfffxS/F0AAAAEABAAQAEAAAAEABAAQAKbB5/ACAAgAIACAAAACAAgAIACAAMCufPt0PejnW60CAAgAIACAAAACAAgAIACAAMBEvF1cDvr52+WNAAACAAgAIACAAAACAAgAIABszZfFZwdhRAfHhwIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAA7KHe3ys/1K+fd4N+/tXZ6aj//4/3DwIACAAgAIAAAAIACAAgAIAAAAIACAAgAIAAEGXs7/ILACAAgAAAAlA8j/+fzq8uit9P36/en+cXAEAAAAEABAAQAEAAAAEABAAQAEAAQAAAAQCytKF/wGa1rg4j7N42Zs8KAGwBgERbWb7PT46eej0Anqcv3gdgCwDYAgACAAgAsMf7/7KN7wH4LgBYAQACAJSkrwLbBkCf+38rALAFAGwBbAMgavlvBQC2AIAtgG0ARC3/rQCgeB/As+j5HQHF+wiK5/n3/+pvBQDuAfRVLLD3twIAwz/lFYBVAARvAUQApj87tgBgBWAVAGlX/50FQARgmrNiCwC2AFYBkHb133kARACmNRst5S8Khn8iARABmMYsuAkIocM/6grAKgDK/r4PoHh3AEz+4jepK7AQYPiDtgC2BBh+ARABDL8AiACGP/oegPsCGHwrAKsBDL8VgNUABl8ARACDLwBCgOEXACHA4AuAEGDwBUAMMPQCIAYYegEQBAy8AIgDhlwAgOKVYIAAAAIACAAgACAAgAAAAgAIACAAgAAAAgAIACAAgAAA3foLeOJMAfxluaUAAAAASUVORK5CYII="/>
 
-  <text x="166" y="48" fill="#88E5FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">FEATURED PROJECT</text>
-  <text x="166" y="88" fill="#F8FAFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="760">Lume</text>
-  <text x="166" y="116" fill="#B9C4E4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Monitoring hub for AI agents</text>
+  <text x="124" y="48" fill="#7F998B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">LOCAL-FIRST DESKTOP APP</text>
+  <text x="124" y="82" fill="#F0F5F2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Lume</text>
 
-  <text x="38" y="174" fill="#D5DDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Track every agent session across CLI, VS Code and the browser</text>
-  <text x="38" y="196" fill="#D5DDF3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">from one focused, local-first desktop workspace.</text>
+  <text x="32" y="128" fill="#C5D0CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">A quiet command center for AI agent sessions.</text>
+  <text x="32" y="151" fill="#98A89F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Monitor CLI, VS Code and browser workflows without terminal clutter.</text>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="0.8">
-    <rect x="38" y="218" width="58" height="25" rx="12.5" fill="#58D8FF" opacity="0.14"/>
-    <text x="51" y="235" fill="#8AE8FF">RUST</text>
-    <rect x="104" y="218" width="66" height="25" rx="12.5" fill="#7C8CFF" opacity="0.16"/>
-    <text x="118" y="235" fill="#AAB3FF">TAURI</text>
-    <rect x="178" y="218" width="76" height="25" rx="12.5" fill="#B779FF" opacity="0.15"/>
-    <text x="190" y="235" fill="#D3A9FF">SVELTE</text>
-  </g>
-
-  <g transform="translate(443 219)" font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text x="0" y="17" fill="#F5F7FF" font-size="13" font-weight="700">View repository</text>
-    <path d="M117 7h12v12M129 7l-16 16" fill="none" stroke="#75DEFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+  <line x1="32" y1="180" x2="588" y2="180" stroke="#29352F"/>
+  <text x="32" y="210" fill="#789083" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">RUST  ·  TAURI  ·  SVELTE</text>
+  <text x="478" y="210" fill="#B9C9C0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Repository  →</text>
 </svg>
