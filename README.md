@@ -24,7 +24,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   </p>
   
   ### Front-end and mobile
@@ -60,6 +59,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   </p>
 </div>
 
@@ -99,14 +99,4 @@
     />
     <img height="180" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tulerws&layout=compact&theme=default&hide_border=true&langs_count=8" />
   </picture>
-</div>
-
-<div align="center">
-  <sub>Statistics provided by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>.</sub>
-</div>
-
----
-
-<div align="center">
-  <sub>Building software with curiosity, consistency and attention to quality.</sub>
 </div>
