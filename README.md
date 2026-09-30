@@ -6,13 +6,6 @@
 
 </div>
 
-## About me
-
-- 💻 Full Stack Developer experienced with **C#/.NET**, **Java** and modern JavaScript frameworks
-- ☁️ Working with **Microsoft Azure**, **AWS**, containers and CI/CD workflows
-- 🧠 Always improving my knowledge of software architecture, DevOps and cloud computing
-- 🤝 Comfortable working both independently and as part of a team
-
 ## Tech stack
 <div align="center">
   
