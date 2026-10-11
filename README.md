@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://lumeagents.dev">
-    <img width="100%" alt="Lume — a quiet command center for your AI agents" src="assets/projects/lume-card.svg?v=4" />
+    <img width="100%" alt="Lume — a quiet command center for your AI agents" src="assets/projects/lume-card.svg?v=5" />
   </a>
   <p>
     <a href="https://lumeagents.dev"><b>Website</b></a> &nbsp;·&nbsp;
