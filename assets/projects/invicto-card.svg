@@ -1,37 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" role="img" aria-labelledby="title description">
-  <title id="title">Invicto — historic football draft</title>
-  <desc id="description">A restrained project card using Invicto's official icon and gold visual identity.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="84" viewBox="0 0 960 84" role="img" aria-labelledby="t d">
+  <title id="t">Invicto — historic football draft</title>
+  <desc id="d">A slim, quiet project strip with Invicto's icon and a playable web experience.</desc>
   <defs>
-    <linearGradient id="invicto-bg" x1="20" x2="108" y1="16" y2="116" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#143C3F"/>
-      <stop offset=".55" stop-color="#07110E"/>
-      <stop offset="1" stop-color="#1C1410"/>
-    </linearGradient>
-    <linearGradient id="invicto-gold" x1="39" x2="89" y1="22" y2="106" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFE083"/>
-      <stop offset=".5" stop-color="#F4B72A"/>
-      <stop offset="1" stop-color="#9F6415"/>
-    </linearGradient>
+    <linearGradient id="invicto-bg" x1="20" x2="108" y1="16" y2="116" gradientUnits="userSpaceOnUse"><stop stop-color="#143C3F"/><stop offset=".55" stop-color="#07110E"/><stop offset="1" stop-color="#1C1410"/></linearGradient>
+    <linearGradient id="invicto-gold" x1="39" x2="89" y1="22" y2="106" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE083"/><stop offset=".5" stop-color="#F4B72A"/><stop offset="1" stop-color="#9F6415"/></linearGradient>
   </defs>
-
-  <rect x="1" y="1" width="618" height="238" rx="20" fill="#151511" stroke="#49402E" stroke-width="2"/>
-  <path d="M20 1h44v3H20a19 19 0 0 0-19 19v-3A19 19 0 0 1 20 1Z" fill="#D1A44A"/>
-
-  <g transform="translate(32 28) scale(.5625)">
+  <rect x="1" y="1" width="958" height="82" rx="20" fill="#14140f" stroke="#2f2a1f" stroke-width="1.5"/>
+  <g opacity=".82" transform="translate(20 16) scale(.4375)">
     <rect width="128" height="128" rx="28" fill="url(#invicto-bg)"/>
     <path d="M64 15 105 31v30c0 28.5-16.8 47-41 57-24.2-10-41-28.5-41-57V31Z" fill="#0A1E1C" stroke="url(#invicto-gold)" stroke-width="6" stroke-linejoin="round"/>
-    <path d="M39 49h50M39 65h50M64 37v59" fill="none" stroke="#FFFFFF" stroke-opacity=".14" stroke-width="3" stroke-linecap="round"/>
     <path d="M50 37h28M64 37v57M50 94h28" fill="none" stroke="url(#invicto-gold)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="m64 20 4.7 9.3 10.3 1.5-7.5 7.2 1.8 10.2-9.3-4.9-9.3 4.9 1.8-10.2-7.5-7.2 10.3-1.5Z" fill="url(#invicto-gold)" stroke="#07110E" stroke-width="2"/>
   </g>
-
-  <text x="124" y="48" fill="#AA956A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">PLAYABLE WEB EXPERIENCE</text>
-  <text x="124" y="82" fill="#F3F0E8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Invicto</text>
-
-  <text x="32" y="128" fill="#D2CABB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">A historic football draft built around iconic campaigns.</text>
-  <text x="32" y="151" fill="#A89F8C" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Assemble your XI, define the tactics and survive the continental route.</text>
-
-  <line x1="32" y1="180" x2="588" y2="180" stroke="#3A3427"/>
-  <text x="32" y="210" fill="#9B8965" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">REACT  ·  TYPESCRIPT  ·  VITE</text>
-  <text x="507" y="210" fill="#D7C69F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Play  →</text>
+  <text x="90" y="37" fill="#c9c1ad" font-family="Manrope, Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="-.3">Invicto</text>
+  <text x="90" y="58" fill="#7e7665" font-family="Manrope, Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Historic football draft you can play in the browser  ·  React  ·  TypeScript  ·  Vite</text>
+  <text x="926" y="47" fill="#a8977a" font-family="Manrope, Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" text-anchor="end">Play  →</text>
 </svg>

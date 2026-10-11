@@ -58,11 +58,16 @@
 ## Featured projects
 
 <div align="center">
-  <a href="https://github.com/tulerws/Lume">
-    <img width="49%" alt="Lume — monitoring hub for AI agents" src="assets/projects/lume-card.svg?v=3" />
+  <a href="https://lumeagents.dev">
+    <img width="100%" alt="Lume — a quiet command center for your AI agents" src="assets/projects/lume-card.svg?v=4" />
   </a>
+  <p>
+    <a href="https://lumeagents.dev"><b>Website</b></a> &nbsp;·&nbsp;
+    <a href="https://github.com/Lume-agents/Lume/releases/latest"><b>Download</b></a> &nbsp;·&nbsp;
+    <a href="https://github.com/Lume-agents/Lume"><b>Source</b></a>
+  </p>
   <a href="https://playinvicto.pages.dev">
-    <img width="49%" alt="Invicto — historic football draft experience" src="assets/projects/invicto-card.svg?v=3" />
+    <img width="100%" alt="Invicto — historic football draft, playable in the browser" src="assets/projects/invicto-card.svg?v=4" />
   </a>
 </div>
 
