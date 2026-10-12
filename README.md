@@ -12,18 +12,9 @@
 
 ### Projects
 
-<a href="https://lumeagents.dev"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-lume-dark.svg" />
-  <img src="assets/project-lume-light.svg" alt="Lume — a quiet command center for your AI agents" width="100%" />
-</picture></a>
-<a href="https://playinvicto.pages.dev"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/project-invicto-dark.svg" />
-  <img src="assets/project-invicto-light.svg" alt="Invicto — a historic football draft you can play in the browser" width="100%" />
-</picture></a>
+<a href="https://lumeagents.dev"><img src="assets/project-lume.svg" width="49%" alt="Lume — a quiet command center for your AI agents" /></a> <a href="https://playinvicto.pages.dev"><img src="assets/project-invicto.svg" width="49%" alt="Invicto — a historic football draft you can play in the browser" /></a>
 
-<sub>Lume &nbsp;·&nbsp; [Website](https://lumeagents.dev) &nbsp;·&nbsp; [Download](https://github.com/Lume-agents/Lume/releases/latest) &nbsp;·&nbsp; [Source](https://github.com/Lume-agents/Lume) &nbsp;·&nbsp; [Relay](https://github.com/Lume-agents/lume-relay) &nbsp;·&nbsp; ![latest release](https://img.shields.io/github/v/release/Lume-agents/Lume?label=latest&style=flat-square&color=5f8a6a&labelColor=18231b)</sub>
-
-<sub>[LinkedIn](https://www.linkedin.com/in/joaotulerr/)</sub>
+<sub>![latest release](https://img.shields.io/github/v/release/Lume-agents/Lume?label=latest&style=flat-square&color=5f8a6a&labelColor=18231b) &nbsp;·&nbsp; [Download](https://github.com/Lume-agents/Lume/releases/latest)</sub>
 
 &nbsp;
 
