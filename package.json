@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "description": "Build scripts for the profile README images (stack icons and the footer GIF).",
-  "scripts": { "stack": "node scripts/stack.mjs", "gif": "node scripts/footer-gif/build.mjs", "build": "npm run stack && npm run gif" },
+  "scripts": { "stack": "node scripts/stack.mjs", "gif": "node scripts/footer-gif/build.mjs", "projects": "node scripts/projects.mjs", "build": "npm run stack && npm run projects && npm run gif" },
   "devDependencies": { "gifenc": "^1.0.3", "simple-icons": "^16.0.0" }
 }
