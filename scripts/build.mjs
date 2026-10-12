@@ -102,71 +102,21 @@ function header() {
   save("header.svg", svg(W, H, "João Pedro — full-stack developer in Rio de Janeiro", body, { radius: 26 }));
 }
 
-function lume() {
-  const W = 640, H = 300;
-  const clipped = `<g opacity=".95">${ring(448, 150, 142, 70, { light: [174, 198, 149], dark: [56, 82, 66], thin: 2.2, wide: 8.5, low: 34, high: 20, count: 68 })}</g>
+function lume(live) {
+  const W = 1000, H = 210;
+  const clipped = `<g opacity=".95">${ring(790, 106, 176, 50, { light: [174, 198, 149], dark: [56, 82, 66], thin: 2.2, wide: 8, low: 24, high: 14, count: 84 })}</g>
   <rect width="${W}" height="${H}" fill="url(#fade)"/>`;
-  const top = `${orbImage(448, 148, 176)}
-  ${label(36, 52, "FEATURED PROJECT", c.sage)}
-  <text x="34" y="122" fill="${c.nightText}" font-size="56" font-weight="500" letter-spacing="-3">Lume</text>
-  <text x="36" y="158" fill="${c.nightText}" font-size="16" font-weight="500" letter-spacing="-.3">A quiet command center</text>
-  <text x="36" y="180" fill="${c.nightText}" font-size="16" font-weight="500" letter-spacing="-.3">for your AI agents.</text>
-  <text x="36" y="236" fill="${c.sage}" font-size="14" font-weight="700">lumeagents.dev ↗</text>
-  <text x="36" y="266" fill="#6f8a79" font-size="10.5" font-weight="700" letter-spacing="1.6">OPEN SOURCE · RUST · TAURI · SVELTE</text>`;
-  const defs = `${liftFilter(0.45)}<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="${c.night}" stop-opacity=".92"/><stop offset=".42" stop-color="${c.night}" stop-opacity=".55"/><stop offset=".62" stop-color="${c.night}" stop-opacity="0"/></linearGradient>`;
-  save("lume.svg", svg(W, H, "Lume — a quiet command center for your AI agents", { clipped, top }, { fill: c.night, stroke: "#2c4a3c", defs }));
+  const facts = [live.version ? `v${live.version}` : null, live.date || null, live.commits != null ? `${live.commits} commits in 30 days` : null].filter(Boolean).join("  ·  ");
+  const top = `${orbImage(790, 104, 170)}
+  ${label(44, 54, "FEATURED PROJECT", c.sage)}
+  <text x="42" y="116" fill="${c.nightText}" font-size="54" font-weight="500" letter-spacing="-3">Lume</text>
+  <text x="44" y="148" fill="${c.nightText}" font-size="17" font-weight="500" letter-spacing="-.3">A quiet command center for your AI agents.</text>
+  <text x="44" y="178" fill="${c.sage}" font-size="13.5" font-weight="700">lumeagents.dev ↗</text>
+  <text x="196" y="178" fill="#7f9a89" font-size="12.5">${esc(facts)}</text>`;
+  const defs = `${liftFilter(0.45)}<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="${c.night}" stop-opacity=".95"/><stop offset=".45" stop-color="${c.night}" stop-opacity=".6"/><stop offset=".62" stop-color="${c.night}" stop-opacity="0"/></linearGradient>`;
+  save("lume.svg", svg(W, H, "Lume — a quiet command center for your AI agents", { clipped, top }, { fill: c.night, stroke: "#2c4a3c", defs, radius: 26 }));
 }
 
-function now(live) {
-  const W = 320, H = 300;
-  const stat = live.commits != null ? `${live.commits}` : "—";
-  const body = `
-  ${label(30, 52, "NOW", c.muted)}
-  <circle cx="288" cy="48" r="4.5" fill="#4d9d76"><animate attributeName="opacity" values="1;.3;1" dur="2.6s" repeatCount="indefinite"/></circle>
-  <text x="28" y="108" fill="${c.ink}" font-size="15" font-weight="500" letter-spacing="-.2">Shipping Lume</text>
-  <text x="26" y="160" fill="${c.ink}" font-size="50" font-weight="500" letter-spacing="-3">${esc(live.version)}</text>
-  <text x="28" y="186" fill="${c.muted}" font-size="13" font-weight="400">${live.date ? `released ${esc(live.date)}` : "latest release"}</text>
-  <path d="M30 208h260" stroke="${c.line}"/>
-  <text x="28" y="250" fill="${c.ink}" font-size="30" font-weight="500" letter-spacing="-1.4">${stat}</text>
-  <text x="30" y="272" fill="${c.muted}" font-size="12.5">commits in the last 30 days</text>`;
-  save("now.svg", svg(W, H, `Now: shipping Lume ${live.version}`, body));
-}
-
-function relay() {
-  const W = 320, H = 150;
-  const body = `
-  ${label(30, 40, "OPEN SOURCE", c.muted)}
-  <text x="28" y="76" fill="${c.ink}" font-size="25" font-weight="500" letter-spacing="-1.2">Lume Relay</text>
-  <text x="30" y="100" fill="${c.muted}" font-size="12.5">A blind, end-to-end encrypted relay</text>
-  <text x="30" y="117" fill="${c.muted}" font-size="12.5">for Lume Remote.</text>
-  <text x="290" y="126" fill="${c.ink}" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1">AGPL-3.0</text>`;
-  save("relay.svg", svg(W, H, "Lume Relay — a blind, end-to-end encrypted relay", body, { fill: c.white }));
-}
-
-function invicto() {
-  const W = 320, H = 150;
-  const defs = `<linearGradient id="g1" x1="20" x2="108" y1="16" y2="116" gradientUnits="userSpaceOnUse"><stop stop-color="#143C3F"/><stop offset=".55" stop-color="#07110E"/><stop offset="1" stop-color="#1C1410"/></linearGradient>
-    <linearGradient id="g2" x1="39" x2="89" y1="22" y2="106" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE083"/><stop offset=".5" stop-color="#F4B72A"/><stop offset="1" stop-color="#9F6415"/></linearGradient>`;
-  const body = `
-  <g opacity=".85" transform="translate(30 30) scale(.3125)"><rect width="128" height="128" rx="28" fill="url(#g1)"/>
-    <path d="M64 15 105 31v30c0 28.5-16.8 47-41 57-24.2-10-41-28.5-41-57V31Z" fill="#0A1E1C" stroke="url(#g2)" stroke-width="6" stroke-linejoin="round"/>
-    <path d="M50 37h28M64 37v57M50 94h28" fill="none" stroke="url(#g2)" stroke-width="10" stroke-linecap="round"/>
-    <path d="m64 20 4.7 9.3 10.3 1.5-7.5 7.2 1.8 10.2-9.3-4.9-9.3 4.9 1.8-10.2-7.5-7.2 10.3-1.5Z" fill="url(#g2)" stroke="#07110E" stroke-width="2"/></g>
-  <text x="78" y="56" fill="#cfc7b3" font-size="21" font-weight="500" letter-spacing="-.8">Invicto</text>
-  <text x="30" y="96" fill="#8b8371" font-size="12.5">Historic football draft you can</text>
-  <text x="30" y="113" fill="#8b8371" font-size="12.5">play in the browser.</text>
-  <text x="290" y="126" fill="#6c6454" font-size="11" font-weight="700" text-anchor="end" letter-spacing="1">REACT · VITE</text>`;
-  save("invicto.svg", svg(W, H, "Invicto — historic football draft", body, { fill: "#14140f", stroke: "#2f2a1f", defs }));
-}
-
-function stack() {
-  const W = 320, H = 150;
-  const rows = [["Backend", "C# · .NET · Java · Python · Rust"], ["Frontend", "Svelte · Angular · React · TypeScript"], ["Mobile", "Flutter · Kotlin"], ["Data", "Postgres · SQL Server · Docker · AWS"]];
-  const body = `${label(30, 40, "STACK", c.muted)}
-  ${rows.map(([k, v], i) => `<text x="30" y="${68 + i * 20}" fill="${c.ink}" font-size="11.5" font-weight="700">${esc(k)}</text><text x="104" y="${68 + i * 20}" fill="${c.muted}" font-size="11">${esc(v)}</text>`).join("\n  ")}`;
-  save("stack.svg", svg(W, H, "Stack", body));
-}
-
-header(); lume(); relay(); invicto(); stack();
-now(await liveNumbers());
+header();
+lume(await liveNumbers());
 console.log("tiles written to assets/tiles");
